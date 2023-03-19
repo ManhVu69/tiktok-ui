@@ -1,0 +1,9 @@
+.btn {
+    padding: 4px 16px;
+    border: 1px solod #ccc;
+    border-radius: 4px;
+}
+
+.active {
+    background-color: red;
+}
